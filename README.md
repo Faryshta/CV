@@ -13,13 +13,21 @@
 ```Javascript
 [
 	php : {
-		Experiencia : "6 años",
+		Experiencia : "6 años"
 	},
 	MySQL : {
 		Experiencia : "6 años"
+		
 	},
 	HTML5 : {
-		Experiencia : "3 años"
+		Experiencia : "3 años",
+		Relacionados : "4 años de experiencia con HTML4 y xHTML"
+	},
+	Javascript : {
+		Experiencia : "4 años"
+		Conocimientos : {
+			jQuery : "Avanzado uso de esta herramienta"
+		}
 	}
 ]
 ```
