@@ -54,11 +54,60 @@
 
 ### Fonoteca Nacional
 
-Desarrollo Front End y Back End. Manejo de varios CMS como Wordpress, Joomla y RainFramework
+```Javascript
+{
+	Inicio : 05/2012,
+	Termino : 01/2013
+	Herramientas : [
+		WordPress,
+		joomla,
+		RainFramework,
+		RainTPL,
+		MVC,
+		MySQL,
+		Oracle,
+		HTML5,
+		jwPlayer
+	]	
+}
+```
+
+Desarrollo Front End y Back End. Manejo de varios CMS como Wordpress, Joomla y RainFramework.
+
+El principal trabajo consistia en administrar la base de datos de los archivos almacenados en la fonoteca y diseñar consultas, esquemas, tablas y uniones que permitieran procesar y organizar toda la información.
+
+Las busquedas de tracks y records de la fonoteca fueron las más beneficiadas logrando disminuir el tiempo de ejecuciónd de la consulta de 15 a 0.5 segundos. Ese logro se debió a varias estrategías.
+
+* Migrar el controlador de `mysql\_connect` a `PDO`
+* Utilizar la funcionalidad FullText del motor MyISAM
+* Utilizar programación orientada a objetos con el diseño `MVC`
+* Utilizar sólo una query que aprovecharan las ventajas de los joins en lugar de manejar varias
 
 ### 2realpeople
 
+```Javascript
+{
+	Inicio : 05/2012,
+	Termino : 01/2013
+	Herramientas : [
+		WordPress,
+		joomla,
+		RainFramework,
+		RainTPL,
+		MVC,
+		MySQL,
+		Oracle,
+		HTML5,
+		jwPlayer
+	]	
+}
+```
+
+Desarrollo Front End multi navegador y multi plataforma se utilizaron bastante tecnologías HTML5, CSS3, jQuery 1.8 y APIs como Google Maps.
+
 ### Secreataria de Educación y Cultura
+
+
 
 ## Projectos
 
@@ -71,7 +120,11 @@ Todos los componentes cumplen con las especificaciones de PSR-2 haciendolos fác
 > #### Rain Template
 > 
 > Librería ultra ligera para manejar templates en HTML y PHP. Cuenta con saneamiento de variables para evitar injección php y ataques XSS.
-
+> 
+> #### Rain DB
+> 
+> Librería de base de datos estatica para acceder y manejar bases de datos.
+> 
 > #### Rain Framework
 > 
 > Colección de componentes y diseños de programación enfocada a simplificar el desarrollo en PHP. Se usa el diseño de programación `MVC` como base
@@ -79,7 +132,5 @@ Todos los componentes cumplen con las especificaciones de PSR-2 haciendolos fác
 ### PHP Programmers
 
 Comunidad de Google Plus para programadores `PHP` en la cuál se orienta y tutela programadores de todos los niveles a las nuevas tecnologías y estandares de programación. Esta comunidad ya cuenta con recursos de aprendizaje y validación de código en linea en las cuales soy uno de los fundadores.
-
-
 
 ## Otras Actividades
