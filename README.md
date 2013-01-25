@@ -44,8 +44,7 @@
 	Javascript : {
 		Experiencia : 4 * 'años'
 		Conocimientos : {
-			jQuery : "Avanzado uso de esta herramienta y sus extensiones más populares"
-			
+			jQuery : "Avanzado uso de esta herramienta y sus extensiones más populares"	
 		}
 	}
 }
@@ -69,12 +68,13 @@ Participante activo en el proyecto de programación Rain el cual esta conformado
 
 Todos los componentes cumplen con las especificaciones de PSR-2 haciendolos fácilmente integrables a cualquier projecto.
 
-#### Rain Template
+> #### Rain Template
+> 
+> Librería ultra ligera para manejar templates en HTML y PHP. Cuenta con saneamiento de variables para evitar injección php y ataques XSS.
 
-Librería ultra ligera para manejar templates en HTML y PHP. Cuenta con saneamiento de variables para evitar injección php y ataques XSS.
-
-#### Rain 
-Colección 
+> #### Rain Framework
+> 
+> Colección de componentes y diseños de programación enfocada a simplificar el desarrollo en PHP. Se usa el diseño de programación `MVC` como base
 
 ### PHP Programmers
 
