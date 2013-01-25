@@ -11,9 +11,9 @@
 ## Lenguajes de Programación
 
 ```Javascript
-[
+{
 	php : {
-		Experiencia : 6 * años,
+		Experiencia : 6 * 'años',
 		Conocimientos : {
 			PDO : "Acceso a base de datos orientada a objetos que mejora
 				las funcionalidades sobre las funciones `mysql_connect` y derivados.
@@ -26,7 +26,7 @@
 		}
 	},
 	MySQL : {
-		Experiencia : 6 * años,
+		Experiencia : 6 * 'años',
 		Conocimientos : {
 			query : "Tengo bastante experiencia en seguridad, estandares y funcionamiento
 				de todo tipo de consultas SQL tanto en `MySQL` como en otras bases de datos",
@@ -36,25 +36,50 @@
 		}
 	},
 	HTML : {
-		Experiencia : 5 * años,
+		Experiencia : 5 * 'años',
 		Conocimientos : {
 			HTML5 : "3 años de experiencia, conocimiento de los elementos y su suporte
 				En los distintos navegadores"
 	},
 	Javascript : {
-		Experiencia : 4 * años
+		Experiencia : 4 * 'años'
 		Conocimientos : {
 			jQuery : "Avanzado uso de esta herramienta y sus extensiones más populares"
 			
 		}
 	}
-]
+}
 ```
 
 ## Experiencia Laboral
 
-## Projectos Actuales
+### Fonoteca Nacional
 
-## Projectos Terminados
+Desarrollo Front End y Back End. Manejo de varios CMS como Wordpress, Joomla y RainFramework
 
-## Otras actividades
+### 2realpeople
+
+### Secreataria de Educación y Cultura
+
+## Projectos
+
+### Rain
+
+Participante activo en el proyecto de programación Rain el cual esta conformado varios componentes y librerias `PHP`.
+
+Todos los componentes cumplen con las especificaciones de PSR-2 haciendolos fácilmente integrables a cualquier projecto.
+
+#### Rain Template
+
+Librería ultra ligera para manejar templates en HTML y PHP. Cuenta con saneamiento de variables para evitar injección php y ataques XSS.
+
+#### Rain 
+Colección 
+
+### PHP Programmers
+
+Comunidad de Google Plus para programadores `PHP` en la cuál se orienta y tutela programadores de todos los niveles a las nuevas tecnologías y estandares de programación. Esta comunidad ya cuenta con recursos de aprendizaje y validación de código en linea en las cuales soy uno de los fundadores.
+
+
+
+## Otras Actividades
