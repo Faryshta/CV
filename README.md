@@ -55,7 +55,7 @@
 			GooglePenguin : "Estandar creado por Google para mejorar el ranking de una página"
 	},
 	Javascript : {
-		Experiencia : 4 * 'años'
+		Experiencia : 4 * 'años',
 		Conocimientos : {
 			jQuery : "Avanzado uso de esta herramienta y sus extensiones más populares",
 			OOP : "La programación orientada a objetos de JS tiene un scope
@@ -72,7 +72,7 @@
 ```Javascript
 {
 	Inicio : 05/2012,
-	Termino : 01/2013
+	Termino : 01/2013,
 	Herramientas : [
 		WordPress,
 		joomla,
