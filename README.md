@@ -121,7 +121,7 @@ Las busquedas de tracks y records de la fonoteca fueron las más beneficiadas lo
 
 Desarrollo Front End multi navegador y multi plataforma se utilizaron bastante tecnologías HTML5, CSS3, jQuery 1.8 y APIs como Google Maps.
 
-### Secreataria de Educación y Cultura
+### Secretaria de Educación y Cultura
 
 ```Javascript
 {
@@ -132,7 +132,7 @@ Desarrollo Front End multi navegador y multi plataforma se utilizaron bastante t
 		C++,
 		Qt,
 		xHTML,
-		MySQL,
+		MySQL
 	]
 }
 ```
