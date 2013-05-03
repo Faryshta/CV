@@ -21,13 +21,13 @@
 				las funcionalidades sobre las funciones `mysql_connect` y derivados.
 				Este metodo de acceso a base de datos es más eficiente y seguro",
 			MVC : "Diseño de programación orientado a servidores web que ayuda a
-				organizar las librerías de acuerdo a su funcionalidad en Modelo,
+				organizar las bibliotecas de acuerdo a su funcionalidad en Modelo,
 				Vista y Controlador",
 			DessignPatterns : "Experiencia con varios diseños de programación
 				y la forma en que se relacionan y trabajan entre ellos",
 			PSR : "Estructura que toma beneficio de todas las funcionalidades de
-				la programación orientada a objetos en php para hacer las librerías
-				fáciles de desarrollar, mantener y operar con otras librerías",
+				la programación orientada a objetos en php para hacer las bibliotecas
+				fáciles de desarrollar, mantener y operar con otras bibliotecas",
 			CMS : "Experiencia en el uso de varios frameworks y CMSs"
 		}
 	},
@@ -157,17 +157,17 @@ Desarrollo Front End multi navegador y multi plataforma se utilizaron bastante t
 
 ### Rain
 
-Participante y colaborador activo en el proyecto de programación Rain el cual esta conformado varios componentes y librerias `PHP`.
+Participante y colaborador activo en el proyecto de programación Rain el cual esta conformado varios componentes y bibliotecas `PHP`.
 
 Todos los componentes cumplen con las especificaciones de PSR-2 haciendolos fácilmente integrables a cualquier projecto.
 
 > #### Rain Template
 > 
-> Librería ultra ligera para manejar templates en HTML y PHP. Cuenta con saneamiento de variables para evitar injección php y ataques XSS.
+> Biblioteca ultra ligera para manejar templates en HTML y PHP. Cuenta con saneamiento de variables para evitar inyección php y ataques XSS.
 > 
 > #### Rain DB
 > 
-> Librería de base de datos estatica basada en `PDO` para acceder y manejar bases de datos de fácil configuración y con seguridad integrada.
+> Biblioteca de base de datos estática basada en `PDO` para acceder y manejar bases de datos de fácil configuración y con seguridad integrada.
 > 
 > #### Rain Framework
 > 
@@ -175,13 +175,13 @@ Todos los componentes cumplen con las especificaciones de PSR-2 haciendolos fác
 
 ### PHP Programmers
 
-Comunidad de Google Plus para programadores `PHP` en la cuál se orienta y tutela programadores de todos los niveles a las nuevas tecnologías y estandares de programación. Esta comunidad ya cuenta con recursos de aprendizaje y validación de código en linea en las cuales soy uno de los fundadores.
+Comunidad de Google Plus para programadores `PHP` en la cual se orienta y tutela programadores de todos los niveles a las nuevas tecnologías y estandares de programación. Esta comunidad ya cuenta con recursos de aprendizaje y validación de código en linea en las cuales soy uno de los fundadores.
 
 ### Markdown Orientada a Objetos para PHP
 
-La libería original de Markdown un conversor de texto a HTML no incluía soporte para PHP. Una librería pseudo oficial fue diseñada para PHP4 versión que carecía de soporte para programación orientada a objetos. Colaboré para una versión mejorada de esta librería que aprovechara las ventajas de la programación orientada a objetos y que cumpliera con PSR para que sea fácil de incluir en cualquier proyecto.
+La biblioteca original de Markdown un conversor de texto a HTML no incluía soporte para PHP. Una biblioteca pseudo oficial fue diseñada para PHP4 versión que carecía de soporte para programación orientada a objetos. Colaboré para una versión mejorada de esta biblioteca que aprovechara las ventajas de la programación orientada a objetos y que cumpliera con PSR para que sea fácil de incluir en cualquier proyecto.
 
 ## Otros Conocimientos
 
-* Idiomas : Inglés, Español, Frances
+* Idiomas : Inglés, Español, Francés
 * Matemáticas : Licenciatura en Matemáticas
