@@ -67,6 +67,33 @@
 
 ## Experiencia Laboral
 
+### Secretaría de Economía
+
+```Javascript
+{
+	Inicio : 02/2013,
+	Termino : 05/2013,
+	Herramientas : [
+		Java,
+		GlassFish,
+		EJB,
+		Maven,
+		JSP,
+		SQLFacade,
+		Oracle,
+		xHTML,
+		Struts,
+		Hibernate,
+		Primefaces,
+		NetBeans,
+		Eclipse
+	]	
+}
+```
+
+Debugging y mantenimiento de sistemas Java para el java servlet GlassFish y base de datos Oracle.	
+
+El trabajo consistía en administrar y resolver los tickets con los problemas y nuevas funcionalidades para los distintos sistemas de la Secretaría usando varios Frameworks Java. Cada cambio era analizado y probado por varias personas antes de aprovar el cambio en SVN y luego se mandaban a producción para que el usuario final pueda dar por concluido su ticket.
 ### Fonoteca Nacional
 
 ```Javascript
